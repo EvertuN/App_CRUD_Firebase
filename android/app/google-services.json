@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371104605879",
+    "project_id": "everton-firebase-d8d25",
+    "storage_bucket": "everton-firebase-d8d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371104605879:android:04682330c0501b337b0f32",
+        "android_client_info": {
+          "package_name": "com.example.app_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_NudQnMMWK3htY21JBzX3pJ8sjED0ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
